@@ -1,7 +1,6 @@
 {
   "name": "jenkins_example",
   "version": "1.0.0",
-  "description": "",
   "main": "node.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inceptive-code/jenkins_experiment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inceptive-code/jenkins_experiment/issues"
+  },
+  "homepage": "https://github.com/inceptive-code/jenkins_experiment#readme",
+  "description": ""
 }
